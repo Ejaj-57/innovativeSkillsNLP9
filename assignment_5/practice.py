@@ -11,7 +11,6 @@ Task 1: The Cleaner (Search and Replace)
 Write a for loop using range() to find every instance of the string "Error". Replace it with the number 0.0.
 '''
 
-from pickletools import read_string1
 
 
 readings = [12.5, "Error", 18.2, 15.0, "Error", 22.1, 10.8]
