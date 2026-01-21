@@ -10,6 +10,7 @@
 # print(student2.name)
 
 # constructor methos -> initialization 
+# constructor returns nothing
 
 class Student:
     def __init__(self, name, roll):
@@ -27,3 +28,9 @@ student1 = Student(name, roll)
 name1, roll1 = student1.info()
 
 print(name1, roll1)
+
+'''
+-> A Class in programming is a blueprint or template for creating object that shares common attributes (data or variable) and behaviour (methods or functions)
+-> It serve as a blueprint for creating instances, or objects, which are individual instances of that class.
+
+'''
